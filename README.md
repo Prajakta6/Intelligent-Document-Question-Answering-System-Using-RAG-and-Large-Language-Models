@@ -11,6 +11,24 @@ A Streamlit application that lets you upload a PDF and ask questions about its c
 - Generates an answer grounded in the retrieved context using Ollama.
 - Includes Project Flow and Technical Concepts pages.
 
+## Screenshots
+
+### PDF upload and indexing
+
+![PDF uploaded with extracted text and vector database status](assets/screenshots/pdf-upload-and-indexing.png)
+
+### Retrieved context and generated answer
+
+![Retrieved document context and answer to a user question](assets/screenshots/retrieved-context-and-answer.png)
+
+### Project flow
+
+![Vertical project flow from PDF upload through answer generation](assets/screenshots/project-flow.png)
+
+### Technical concepts
+
+![Technical concepts explained in the application](assets/screenshots/technical-concepts.png)
+
 ## Requirements
 
 - Python
